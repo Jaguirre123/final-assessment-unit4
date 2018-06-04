@@ -1,5 +1,6 @@
 {
   "name": "final-assessment",
+  "homepage": "https://Jaguirre123.github.io/project-4-assessment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,6 +16,5 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://github.com/Jaguirre123.github.io/project-4-assessment"
+  }
 }
